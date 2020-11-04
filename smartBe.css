@@ -9,7 +9,7 @@ body{
     background-color: #d0bcbc;
     border: 1px solid;
     color: #7a2f2f;
-    font-size: 85px;
+    font-size: 285%;
     padding-left: 30px;
 }
 .menu {
@@ -30,14 +30,13 @@ a{
     display: block;
 }
 .main{
+
     float: left;
     width: 80% ;
 }
 .top-right{
-    position: absolute;
-    top: 30%;
-    right: 1%;
-    text-align: end;
+    background: whitesmoke;
+    text-align: right;
     color: #b14343;
     font-size: 190%;
 }
@@ -47,7 +46,7 @@ menu:after {
     clear: both;
 }
 .footer{
-    background: #d0bcbc;
+    background: whitesmoke;
     font-size: 350%;
     color: #7a2f2f;
     padding-left: 20px;
