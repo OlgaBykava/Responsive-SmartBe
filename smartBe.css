@@ -72,8 +72,25 @@ img{
 .line-list{
     margin-left: 5%;
 }
+
+.blog {
+    background-color: #e9e8e8 ;
+    width: 38%;
+    float: left;
+    padding: 5%;
+    font-size: 180%;
+}
+
+.linksleft {
+    background-color: #e9e8e8 ;
+    width: 40%;
+    float: left;
+    padding : 1%;
+    font-size: 180%;
+}
+
 @media only screen and (max-width:800px) {
-    .menu, .main,.article {
+    .menu, .main,.article,.blog,.linksleft {
         width:100%;
         height: auto;
     }
