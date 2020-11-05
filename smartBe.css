@@ -23,7 +23,7 @@ body{
    padding: 2%;
     background-color: #d0cfcf;
     padding-left: 10px ;
-    width: 20%;
+    width: 22%;
     color: #8a3535;
     font-size: 190%;
     font-weight: bold;
@@ -38,7 +38,7 @@ a{
 .main{
 
     float: left;
-    width: 80% ;
+    width: 78% ;
     background-color: #f1f1f5;
 }
 
@@ -59,11 +59,11 @@ img{
 }
 .article {
     float: left;
-    width: 80%;
+    width: 78%;
     background-color: #f1f1f1;
     padding: 3%;
     text-align: justify;
-    font-size: 123%;
+    font-size: 118%;
 }
 
 .line-lines{
