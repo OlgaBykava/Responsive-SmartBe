@@ -89,8 +89,42 @@ img{
     font-size: 180%;
 }
 
+.foto1{
+    width: 39%;
+    height: auto;
+    float: left;
+    padding: 5%;
+    background-color: #e9e8e8;
+    float: left;
+}
+
+.f1{
+    vertical-align: middle;
+    width: 350px;
+    height: 390px;
+    border-radius: 50%;
+    padding: 10%;
+}
+.foto2{
+    width: 39%;
+    height: auto;
+    float: left;
+    background-color: #e9e8e8;
+    padding: 5.2%;
+}
+div.description{
+    padding: 2%;
+    text-align: center;
+    font-size: 70%;
+    font-weight: bold;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.3);
+    color:#7a2f2f ;
+}
+
+
+
 @media only screen and (max-width:800px) {
-    .menu, .main,.article,.blog,.linksleft {
+    .menu, .main,.article,.blog,.linksleft,.foto1,.foto2 {
         width:100%;
         height: auto;
     }
