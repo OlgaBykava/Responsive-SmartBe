@@ -38,7 +38,7 @@ a{
 
     float: left;
     width: 78% ;
-    background-color: #f1f1f5;
+    background-color:#e9e8e8 ;
 }
 
 menu:after {
@@ -59,7 +59,7 @@ img{
 .article {
     float: left;
     width: 78%;
-    background-color: #f1f1f1;
+    background-color: #e9e8e8;
     padding: 3%;
     text-align: justify;
     font-size: 118%;
